@@ -1,5 +1,7 @@
 # CountDownTimer
 
+### Priview
+![timer](https://user-images.githubusercontent.com/43386555/54602124-5e949100-4a73-11e9-8cb8-e565fdf35e1d.gif)
 
 ### Source
     public class MainActivity extends AppCompatActivity {
